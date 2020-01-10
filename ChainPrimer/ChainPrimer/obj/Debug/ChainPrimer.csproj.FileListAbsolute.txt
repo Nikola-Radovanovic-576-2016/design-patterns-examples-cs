@@ -1,0 +1,6 @@
+D:\Svasta\CS\ChainPrimer\ChainPrimer\bin\Debug\ChainPrimer.exe.config
+D:\Svasta\CS\ChainPrimer\ChainPrimer\obj\Debug\ChainPrimer.csprojResolveAssemblyReference.cache
+D:\Svasta\CS\ChainPrimer\ChainPrimer\bin\Debug\ChainPrimer.exe
+D:\Svasta\CS\ChainPrimer\ChainPrimer\bin\Debug\ChainPrimer.pdb
+D:\Svasta\CS\ChainPrimer\ChainPrimer\obj\Debug\ChainPrimer.exe
+D:\Svasta\CS\ChainPrimer\ChainPrimer\obj\Debug\ChainPrimer.pdb
